@@ -480,7 +480,20 @@
 		/datum/reagent/consumable/lemonjuice,
 		/datum/reagent/consumable/menthol
 	)
-	upgrade_reagents = null
+	upgrade_reagents = list(
+		/datum/reagent/consumable/berryjuice,
+		/datum/reagent/consumable/carrotjuice,
+		/datum/reagent/consumable/applejuice,
+		/datum/reagent/consumable/watermelonjuice,
+		/datum/reagent/consumable/grapejuice,
+		/datum/reagent/consumable/pumpkinjuice,
+		/datum/reagent/consumable/banana,
+		/datum/reagent/consumable/nothing,
+		/datum/reagent/consumable/laughter,
+		/datum/reagent/consumable/cherryjelly,
+		/datum/reagent/consumable/bluecherryjelly,
+
+	)
 	emagged_reagents = list(
 		/datum/reagent/consumable/ethanol/thirteenloko,
 		/datum/reagent/consumable/ethanol/whiskey_cola,
@@ -525,7 +538,16 @@
 		/datum/reagent/consumable/ethanol/sake,
 		/datum/reagent/consumable/ethanol/applejack
 	)
-	upgrade_reagents = null
+	upgrade_reagents = list(
+		/datum/reagent/consumable/honey,
+		/datum/reagent/consumable/eggyolk,
+		/datum/reagent/consumable/ethanol/lizardwine,
+		/datum/reagent/consumable/ethanol/mead,
+		/datum/reagent/consumable/ethanol/champagne,
+		/datum/reagent/consumable/ethanol/gargle_blaster,
+		/datum/reagent/consumable/ethanol/gintonic,
+		/datum/reagent/consumable/ethanol/martini,
+	)
 	emagged_reagents = list(
 		/datum/reagent/consumable/ethanol,
 		/datum/reagent/iron,
